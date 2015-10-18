@@ -1,0 +1,220 @@
+fileFormatVersion: 2
+guid: 28cedda3456cd304b9b484eb3cb6d0b0
+timeCreated: 1434880127
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: runningmanspritesheet_0
+    21300002: runningmanspritesheet_1
+    21300004: runningmanspritesheet_2
+    21300006: runningmanspritesheet_3
+    21300008: runningmanspritesheet_4
+    21300010: runningmanspritesheet_5
+    21300012: runningmanspritesheet_6
+    21300014: runningmanspritesheet_7
+    21300016: runningmanspritesheet_8
+    21300018: runningmanspritesheet_9
+    21300020: runningmanspritesheet_10
+    21300022: runningmanspritesheet_11
+    21300024: runningmanspritesheet_12
+    21300026: runningmanspritesheet_13
+    21300028: runningmanspritesheet_14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: runningmanspritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 333
+        width: 85
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningmanspritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 331
+        width: 82
+        height: 127
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningmanspritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 331
+        width: 65
+        height: 127
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningmanspritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 331
+        width: 56
+        height: 127
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningmanspritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 331
+        width: 66
+        height: 127
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningmanspritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 180
+        width: 71
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningmanspritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 182
+        width: 90
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningmanspritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 182
+        width: 86
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningmanspritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 181
+        width: 81
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningmanspritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 181
+        width: 75
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningmanspritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 22
+        width: 58
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningmanspritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 22
+        width: 65
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningmanspritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 22
+        width: 71
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningmanspritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 23
+        width: 89
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningmanspritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 25
+        width: 85
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

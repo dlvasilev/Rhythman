@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.Rhythman.CSharp", "UnityVS.Rhythman.CSharp.csproj", "{8A0A6F4A-E85E-BB56-376F-50984D4C37EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A0A6F4A-E85E-BB56-376F-50984D4C37EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A0A6F4A-E85E-BB56-376F-50984D4C37EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A0A6F4A-E85E-BB56-376F-50984D4C37EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A0A6F4A-E85E-BB56-376F-50984D4C37EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
